@@ -9,7 +9,8 @@ public class OrbManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gameManager = GameObject.Find("GameManager")
+        gameManager = GameObject.Find("GameManager");
+
         
     }
 
